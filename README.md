@@ -21,7 +21,6 @@ Having AI working in these functions would significantly reduce costs and assure
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
  Images will make your README look nice!
 
-If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
 
 This is how you create code examples:
