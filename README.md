@@ -5,24 +5,21 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+My dream is to implement as much of the elements of AI as possible to automatize and speed up all centralized customer service functions.
+NLP combined with a bot could without difficulties handele majority of the customer contacts, such as message, chats and even some of the calls.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Having AI working in these functions would significantly reduce costs and assure 100% percent and fast answers to customers.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+* problem 1: The volume of customer messages is increasing in all digital channels. using only people as workforce is non cost-effective and too slow
+* problem 2: People want fist time resolutions through digital channels, and more and more without human contact
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
+ Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
