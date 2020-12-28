@@ -3,7 +3,7 @@
 
 Final project for the Building AI course
 
-## Summary
+## Summary of my project
 
 My dream is to implement as much of the elements of AI as possible to automatize and speed up all centralized customer service functions.
 NLP combined with a bot could without difficulties handle majority of the customer contacts, such as messages, chats and even some of the calls. 
@@ -24,48 +24,12 @@ AI in my project would be used in the background labeling messages and answering
 
 <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/adopting-ai-chatbot-customer-employee-experience-e1568016643365-699x440.jpeg" width="300">
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The capability of the present day NLP and the language used by the AI bots still need some development. AI should be tought more of tone of voice and to tarck customer emotions. Another thing is foreseeing what the customers want. Is it automation and speed, or personal service? One cannot be exactly sure, but if we take a look on the younger generations, almost no one uses the mobile phone to speak! All functions are handled by chats and bots. That to me at least is very revealing of the future.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+I should have a great sparring partner in an AI offering corporation to have ideas how to make my dream reality. Small POC´s could be tested and would be very usefull.
+Concrete next step that I am working on is a chatbot with NLP qualifications. It should be implemented in my branch of business in the 1st quarter of 2021. Looking really much forward to that!
 
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
