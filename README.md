@@ -20,7 +20,7 @@ Having AI working in these functions would significantly reduce costs and assure
 ## How is it used?
 AI in my project would be used in the background labeling messages and answering them without human interference. There should of course be persons monitoring the AI functions all the time and teaching it. I would love to see it formulating good enough answers and solutions that would leave the humans in customer service operations only handling more complicated and advanced detailed questions and inquiries.
 
-<img src="https://https://images.app.goo.gl/ftAnzhXis7BsJXmQ8" width="300">
+<img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/adopting-ai-chatbot-customer-employee-experience-e1568016643365-699x440.jpeg" width="300">
 
 This is how you create code examples:
 ```
