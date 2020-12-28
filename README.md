@@ -8,7 +8,7 @@ Final project for the Building AI course
 My dream is to implement as much of the elements of AI as possible to automatize and speed up all centralized customer service functions.
 NLP combined with a bot could without difficulties handle majority of the customer contacts, such as message, chats and even some of the calls.
 
-<img src="https://https://images.app.goo.gl/ftAnzhXis7BsJXmQ8&auto=format&fit=crop&w=1050&q=80" width="500">
+<img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
 
 ## Background
 
@@ -20,7 +20,7 @@ Having AI working in these functions would significantly reduce costs and assure
 ## How is it used?
 AI in my project would be used in the background labeling messages and answering them without human interference. There should of course be persons monitoring the AI functions all the time and teaching it. I would love to see it formulating good enough answers and solutions that would leave the humans in customer service operations only handling more complicated and advanced detailed questions and inquiries.
 
-<img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
+<img src="https://https://images.app.goo.gl/ftAnzhXis7BsJXmQ8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
 
 This is how you create code examples:
 ```
