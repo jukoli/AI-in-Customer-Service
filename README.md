@@ -10,7 +10,7 @@ NLP combined with a bot could without difficulties handle majority of the custom
 I firmly believe that automation combined with AI is the future solution of handling customer service centres. 
 What should be developed more, is the tone of voice and quality of the the AI answers for customers, but I see it just as a matter of will, more than a real problem.
 
-<img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
+
 
 ## Background
 
@@ -18,6 +18,7 @@ Having AI working in these functions would significantly reduce costs and assure
 
 * problem 1: The volume of customer messages is increasing in all digital channels. using only people as workforce is non cost-effective and too slow
 * problem 2: People want fist time resolutions through digital channels, and more and more without human contact
+<img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
 
 ## How is it used?
 AI in my project would be used in the background labeling messages and answering them without human interference. There should of course be persons monitoring the AI functions all the time and teaching it. I would love to see it formulating good enough answers and solutions that would leave the humans in customer service operations only handling more complicated and advanced detailed questions and inquiries.
