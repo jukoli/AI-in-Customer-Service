@@ -6,7 +6,9 @@ Final project for the Building AI course
 ## Summary
 
 My dream is to implement as much of the elements of AI as possible to automatize and speed up all centralized customer service functions.
-NLP combined with a bot could without difficulties handle majority of the customer contacts, such as message, chats and even some of the calls.
+NLP combined with a bot could without difficulties handle majority of the customer contacts, such as messages, chats and even some of the calls. 
+I firmly believe that automation combined with AI is the future solution of handling customer service centres. 
+What should be developed more, is the tone of voice and quality of the the AI answers for customers, but I see it just as a matter of will, more than a real problem.
 
 <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
 
